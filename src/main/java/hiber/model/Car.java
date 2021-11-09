@@ -22,7 +22,6 @@ public class Car {
 
     }
 
-
     public Long getId() {
         return id;
     }
